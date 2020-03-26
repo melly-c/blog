@@ -9,7 +9,6 @@
 
 Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
 
-> [Theme demo](https://www.amitmerchant.com/reverie/introducing-reverie-jekyll-theme/)
 
 This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https://pages.github.com) without even setting up a local environment.
 
@@ -41,16 +40,11 @@ This is a plug-and-play Jekyll theme best suited to use on [GitHub Pages](https:
 - RSS Feed
 - Built-in sitemap
 
-> <p><i>Like this theme?</i> Become a patreon to support my open source work <p>
-> <a href="https://www.patreon.com/amitmerchant"><img src="https://c5.patreon.com/external/logo/become_a_patron_button@2x.png" width="160"></a>
+
 
 ## Using Reverie on GitHub Pages
 
 ### 1. Fork Reverie to your User Repository
-
-Fork this repository, then rename the repository to `yourgithubusername.github.io`.
-
-Alternatively, you can click the [`Use this template`](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
 
 Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2).
 
@@ -102,10 +96,6 @@ The generated sitemap of your blog can be found at <https://yourgithubusername.g
 
 ## Emailware
 Reverie is an [emailware](https://en.wiktionary.org/wiki/emailware). Meaning, if you liked using this theme or it has helped you in any way, I'd like you send me an email at <bullredeyes@gmail.com> about anything you'd want to say about this software. I'd really appreciate it!
-
-## The name?
-
-reverie - _a state of being pleasantly lost in one's thoughts; a daydream._<br><sup>/ˈrɛv(ə)ri/</sup> 
 
 
 ## License
